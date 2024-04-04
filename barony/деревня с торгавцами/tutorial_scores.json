@@ -1,0 +1,40 @@
+{
+    "version": 1,
+    "first_time_prompt": false,
+    "first_tutorial_complete": false,
+    "levels": {
+        "tutorial_hub": {
+            "completion_time": 0
+        },
+        "tutorial1": {
+            "completion_time": 0
+        },
+        "tutorial2": {
+            "completion_time": 0
+        },
+        "tutorial3": {
+            "completion_time": 0
+        },
+        "tutorial4": {
+            "completion_time": 0
+        },
+        "tutorial5": {
+            "completion_time": 0
+        },
+        "tutorial6": {
+            "completion_time": 0
+        },
+        "tutorial7": {
+            "completion_time": 0
+        },
+        "tutorial8": {
+            "completion_time": 0
+        },
+        "tutorial9": {
+            "completion_time": 0
+        },
+        "tutorial10": {
+            "completion_time": 0
+        }
+    }
+}
